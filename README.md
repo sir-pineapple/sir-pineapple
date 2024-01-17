@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">you can reach me at **dhruvgupta376@gmail.com** 📧</h3>
+you can reach me at **dhruvgupta376@gmail.com** 📧
 
 
 
