@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 👋, sir-pineapple here!🍍</h3>
+<h2 align="left">Hey there 👋, sir-pineapple🍍 here!</h3>
 
 
 
