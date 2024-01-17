@@ -2,7 +2,7 @@
 
 
 
-- you can reach me at **dhruvgupta376@gmail.com** 📧
+reach me at **dhruvgupta376@gmail.com** 📧
 
 
 
