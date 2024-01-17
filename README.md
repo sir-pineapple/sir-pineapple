@@ -1,8 +1,8 @@
-<h3 align="left">Hey there 👋, sir-pineapple here!🍍</h3>
+<h2 align="left">Hey there 👋, sir-pineapple here!🍍</h3>
 
 
 
-you can reach me at **dhruvgupta376@gmail.com** 📧
+-you can reach me at **dhruvgupta376@gmail.com** 📧
 
 
 
